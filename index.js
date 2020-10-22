@@ -4,4 +4,4 @@ setInterval(function() {
             urls.forEach(url => {
             axios.get(url).then(console.log("SIAP GAN BOTNYA " + Date.now())).catch(() => {});
         })
-    }, 60 * 1000);
+    }, 100 * 1000);

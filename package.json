@@ -2,7 +2,7 @@
   "name": "BELLA",
   "version": "1.2.1",
   "description": "A simple Node app with SQLite as a database management system, instantly up and running.",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
